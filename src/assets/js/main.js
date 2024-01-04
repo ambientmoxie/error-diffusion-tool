@@ -171,7 +171,7 @@ const tool = (p) => {
     pane
       .addBinding(PARAMS, "factor", {
         min: 1,
-        max: 20,
+        max: 60,
         step: 1,
         label: "Scale",
       })
