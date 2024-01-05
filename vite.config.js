@@ -1,6 +1,6 @@
 export default {
   root: "src",
-  base: "/error-diffusion",
+  base: "/projects/error-diffusion",
   build: {
     outDir: "../dist",
     chunkSizeWarningLimit: 3000,
